@@ -1,6 +1,6 @@
 ## Overview
 
-The app is built using create-react-app, React-router, Redux to manage state and bootstrap for some simple UI. It displays the latest 20 "now playing" movies that are sorted by their popularity and filterable by genre and rating. Clicking "More Details" displays a single view of the movie with some further information.
+The app is built using React, React-router, Redux to manage state and bootstrap for some simple UI. It displays the latest 20 "now playing" movies that are sorted by their popularity and filterable by genre and rating. Clicking "More Details" displays a single view of the movie with some further information.
 
 ### My Solution
 
