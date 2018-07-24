@@ -1,0 +1,5 @@
+export const SET_MOVIES = 'SET_MOVIES';
+export const SET_GENRES = 'SET_GENRES';
+export const ADD_FILTER_BY_GENRE = 'ADD_FILTER_BY_GENRE';
+export const REMOVE_FILTER_BY_GENRE = 'REMOVE_FILTER_BY_GENRE';
+export const ADJUST_RATING = 'ADJUST_RATING';
