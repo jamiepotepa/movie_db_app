@@ -29,4 +29,4 @@ Clone the repository and run `npm install`. You can then run the blow commands,
 
 `npm start` - node server with express to test produciton build.
 
-View a [DEMO](https://jp-movie-database.netlify.com) here.
+View a [DEMO](https://jp-movie-db.netlify.com) here.
