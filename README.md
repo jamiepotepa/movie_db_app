@@ -17,9 +17,7 @@ filters.rating - Number obtained from the rating slider.
 
 ## Instructions
 
-Clone the repository and run `npm install`. You can then run the blow commands,
-
-### Commands
+Clone the repository and run `npm install`. You can then run the following commands:
 
 `npm run dev-server` - local dev server.
 
